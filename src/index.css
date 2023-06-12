@@ -1,13 +1,30 @@
+@font-face {
+  font-family: 'ComicBook';
+  src: url('./fonts/Comic_Book.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpidermanFont';
+  src: url('./fonts/IronManOfWar002Ncv-ljOd.woff') format('woff');
+}
+
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'ComicBook';
+  color: white;
+  background-color: #181818;
+}
+
+button {
+  font-family: 'ComicBook';
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0px;
+  padding: 0px;
 }

@@ -1,0 +1,44 @@
+.nav-wrapper{
+    
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+.nav-container{
+    position: relative;
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px;
+    padding-bottom: 9px;
+    background: #FFCD1D;
+    background-image: url('../../assets/halftone.png');
+    background-position: -100px;
+    background-size: 70%;
+    background-blend-mode: overlay;
+}
+
+.nav-button{
+    background-color: transparent;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    font-size: 32px;
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.nav-button:hover{
+    color: rgb(246, 246, 246);
+    text-shadow: -3px 1px 3px rgb(0, 0, 0);
+}
+.nav-button:active{
+    
+    text-shadow: -2px 1px 1px rgb(0, 0, 0);
+}
