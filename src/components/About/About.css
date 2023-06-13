@@ -1,0 +1,16 @@
+
+.about-container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.about-comic-strip{
+    width: 80%;
+    
+    box-shadow: -3px 3px 10px #000000;
+
+    border: solid black 10px;
+}

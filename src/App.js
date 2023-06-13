@@ -2,6 +2,8 @@ import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Hero/Hero';
 import Halftone from './assets/halftone.png'
+import About from './components/About/About';
+import Projects from './components/Projects/Projects';
 
 function App() {
   return (
@@ -9,6 +11,8 @@ function App() {
       <div className='main-content'>
         <Navbar/>
         <Hero/>
+        <About/>
+        <Projects/>
       </div>
       <div className='halftone-wrapper'>
         <div className=' halftone-container'>

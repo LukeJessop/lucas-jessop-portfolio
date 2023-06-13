@@ -1,0 +1,35 @@
+.projects-wrapper{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projects-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.projects-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 164px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.12em;
+
+    color: #FFCD1D;
+}
+
+.projects-list-container{
+    display: flex;
+    
+}
+
+.project-card-container{
+    width: 50%;
+}

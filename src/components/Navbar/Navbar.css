@@ -1,8 +1,10 @@
 .nav-wrapper{
-    
+    position: sticky;
+    top: 0;
+    z-index: 10;
     display: flex;
     justify-content: center;
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom: 40px;
 }
 
@@ -15,6 +17,11 @@
     align-items: center;
     padding: 6px;
     padding-bottom: 9px;
+    
+    box-shadow: -3px 3px 10px #000000;
+
+    border: solid black 4px;
+
     background: #FFCD1D;
     background-image: url('../../assets/halftone.png');
     background-position: -100px;
