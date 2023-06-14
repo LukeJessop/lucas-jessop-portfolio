@@ -4,6 +4,7 @@ import Hero from './components/Hero/Hero';
 import Halftone from './assets/halftone.png'
 import About from './components/About/About';
 import Projects from './components/Projects/Projects';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Hero/>
         <About/>
         <Projects/>
+        <Footer/>
       </div>
       <div className='halftone-wrapper'>
         <div className=' halftone-container'>

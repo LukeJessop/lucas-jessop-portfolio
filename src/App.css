@@ -1,8 +1,11 @@
 .app {
     position: relative;
-    padding-left: 10%;
-    padding-right: 10%;
     min-height: 100vh;
+}
+.main-content{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .halftone-wrapper{
@@ -17,7 +20,7 @@
 
 .halftone-container{
     position: relative;
-    height: 200%;
+    height: 100%;
     overflow: hidden;
 }
 
