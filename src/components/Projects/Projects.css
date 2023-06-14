@@ -30,7 +30,6 @@
     flex-wrap: wrap;
     justify-content: center;
     padding-top: 20px;
-    gap: 18px;
     width: 100%;
 }
 
@@ -43,15 +42,16 @@
     justify-content: center;
     gap: 30px;
     
-    box-shadow: -3px 3px 10px #000000;
 
-    border: solid black 4px;
+    border: solid black 3px;
 
-    background: #00e1ff;
-    background-image: url('../../assets/halftone.png');
-    background-position: -1000px;
-    background-size: 200%;
+    background: #008b9e;
+    background-image: url('../../assets/comic_background.png');
     background-blend-mode: overlay;
+    object-fit: cover;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-position-y: center;
     background-repeat: no-repeat;
 
 }
@@ -66,10 +66,8 @@
     width: inherit;
     height: 100%;
     object-fit: cover;
-    
-    box-shadow: -3px 3px 10px #000000;
-
-    border: solid black 4px;
+    border-left: #181818 4px solid;
+    border-bottom: #181818 4px solid;
 }
 
 .card-info-wrapper{
