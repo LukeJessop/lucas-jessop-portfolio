@@ -6,7 +6,7 @@ function FooterButton({ isDownload, link, children }) {
   return (
     <div className="resume-wrapper">
       <div className="resume-container">
-        <a href={isDownload ? ResumeDoc : link} download="Lucas's Resume" className="resume-title">
+        <a target="__blank" rel="noreferrer" href={isDownload ? ResumeDoc : link} download="Lucas's Resume" className="resume-title">
           {isDownload && (
             <img
               className="download-button"

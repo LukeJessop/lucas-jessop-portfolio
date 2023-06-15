@@ -9,6 +9,7 @@ function Footer() {
         <FooterButton isDownload={true}>Resume</FooterButton>
         <FooterButton isDownload={false} link="https://www.youtube.com/@lucasjessop8407">Youtube Channel</FooterButton>
         <FooterButton isDownload={false} link="https://www.linkedin.com/in/lucas-jessop-7861ab187/">LinkedIn</FooterButton>
+        <FooterButton isDownload={false} link="https://github.com/LukeJessop/">Gitgub</FooterButton>
         
       </div>
     </div>

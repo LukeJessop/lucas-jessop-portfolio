@@ -1,13 +1,20 @@
 .app {
     position: relative;
     min-height: 100vh;
-}
-.main-content{
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    padding-left: 20%;
-    padding-right: 20%;
+    align-items: center;
+}
+.main-content{
+    max-width: 1000px;
+    position: relative;
+}
+.nav-stamp{
+    position: absolute;
+    background: #676767;
+    width: 70px;
+    left: 20px;
+    top: 20px;
 }
 
 .halftone-wrapper{

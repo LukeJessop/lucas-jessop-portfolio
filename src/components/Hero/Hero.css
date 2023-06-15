@@ -17,20 +17,13 @@
     width: max-content;
 }
 
-.nav-stamp{
-    position: absolute;
-    background: #676767;
-    width: 70px;
-    left: 0px;
-    top: -156px;
-}
+
 
 .hero-subheading{
     width: fit-content;
     font-family: 'SpidermanFont';
     font-weight: 400;
     font-size: 79px;
-    line-height: 107px;
     text-align: center;
 
     color: #FFFFFF;
@@ -42,7 +35,6 @@
     font-family: 'SpidermanFont';
     font-size: 194px;
     font-weight: 400;
-    line-height: 194px;
     /* identical to box height */
 
     text-align: center;
@@ -50,6 +42,7 @@
 
     color: #FFFFFF;
 
-    -webkit-text-stroke-width: 8px;
+    -webkit-text-stroke-width: .1rem;
     -webkit-text-stroke-color: #AE0000;
 }
+
