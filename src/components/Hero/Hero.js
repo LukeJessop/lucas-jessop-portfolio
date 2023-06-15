@@ -1,6 +1,5 @@
 import React from 'react'
 import './Hero.css'
-import stamp from '../../assets/stamp.png'
 function Hero() {
   return (
     <div className='hero-wrapper'>
