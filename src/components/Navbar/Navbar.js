@@ -25,13 +25,9 @@ function Navbar() {
   return (
     <div className='nav-wrapper'>
       <div className='nav-container'>
-        {buttons.map((item, index) => {
-          return (
-            <button key={index} onClick={() => clickHandler(item.id)} className='nav-button'>
-              {item.title}
-            </button>
-          )
-        })}
+        <div className='nav-button-wrapper'>
+          <h1 style={{color: 'black'}}>Welcome To Lucas Jessop's Resume!</h1>
+        </div>
       </div>
     </div>
   )

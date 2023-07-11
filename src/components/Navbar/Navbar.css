@@ -4,7 +4,6 @@
     z-index: 10;
     display: flex;
     justify-content: center;
-    padding-top: 20px;
     padding-bottom: 40px;
 }
 
@@ -20,13 +19,24 @@
     
     box-shadow: -3px 3px 10px #000000;
 
-    border: solid black 4px;
+    border-bottom: solid black 4px;
 
     background: #FFCD1D;
     background-image: url('../../assets/halftone.png');
     background-position: -100px;
-    background-size: 70%;
+    background-size: 20%;
     background-blend-mode: overlay;
+
+    width: 100%;
+}
+
+.nav-stamp{
+    background: #676767;
+    width: 50px;
+}
+
+.nav-button-wrapper{
+    
 }
 
 .nav-button{
@@ -36,7 +46,6 @@
     cursor: pointer;
     outline: none;
     font-size: 32px;
-    width: 100%;
     padding-left: 40px;
     padding-right: 40px;
 }

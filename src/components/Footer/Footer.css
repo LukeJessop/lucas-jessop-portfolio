@@ -1,12 +1,28 @@
 .footer-container{
-    margin-top: 60px;
-    padding-top: 40px;
-    padding-bottom: 100px;
-    background: #00000069;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
     width: 100%;
+
+    padding: 6px;
+    padding-bottom: 9px;
+    
+    box-shadow: -3px 3px 10px #000000;
+
+    border-top: solid black 4px;
+
+    background: #FFCD1D;
+    background-image: url('../../assets/halftone.png');
+    background-position: -100px;
+    background-size: 20%;
+    background-blend-mode: overlay;
 }
 .footer-wrapper{
     display: flex;
+    align-items: center;
     justify-content: center;
     gap: 20px;
+    padding: 15px;
 }
+

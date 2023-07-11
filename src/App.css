@@ -4,18 +4,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow: hidden;
 }
 .main-content{
-    max-width: 1000px;
     position: relative;
+    width: 100vw;
 }
-.nav-stamp{
-    position: absolute;
-    background: #676767;
-    width: 70px;
-    left: 20px;
-    top: 20px;
-}
+
 
 .halftone-wrapper{
     width: 100%;
