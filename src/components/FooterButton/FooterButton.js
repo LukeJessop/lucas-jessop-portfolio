@@ -1,7 +1,6 @@
 import React from "react";
 import "./FooterButton.css";
 import ResumeDoc from "../../assets/Resume.pdf";
-import downloadIcon from "../../assets/downloadIcon.png";
 function FooterButton({ isDownload, link, children }) {
   return (
     <div className="resume-wrapper">

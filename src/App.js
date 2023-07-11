@@ -10,7 +10,6 @@ function App() {
       <div className="main-content">
         <Navbar />
         <About />
-        {/* <Projects /> */}
       </div>
       <Footer />
       <div className="halftone-wrapper">
