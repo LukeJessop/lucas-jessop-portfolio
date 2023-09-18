@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+# Pokemon Fighters
+Go to Pokemon Fighters site at:  [www.pokemonfighters.com](https://www.pokemonfighters.com).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Pokemon Fighters](https://media.licdn.com/dms/image/D562DAQETMay8z0LYsg/profile-treasury-image-shrink_480_480/0/1693518604919?e=1695668400&v=beta&t=5d1M3QF6kXYJ-o0rd5pMErkTPjT9yvsQcHEg36QZbQc)
 
-## Available Scripts
+# Monkidex
+Monkidex Is not currently hosted due to database and server complications. I am actively working on fixing these.
 
-In the project directory, you can run:
+![Monkidex](https://media.licdn.com/dms/image/sync/C5627AQHNVtZFFnbOsA/articleshare-shrink_480/0/1694022515503?e=1695672000&v=beta&t=ID5aEX3EZw1tOug3QnM63XeJoxQO2aD-PjvllOuGwk0)
 
-### `npm start`
+# DnD Find Me
+DnD Find Me Is also not currently hosted due to database and server complications. I am actively working on fixing these.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## My Linkedin
+View my Linkedin [here](https://www.linkedin.com/in/lucas-jessop-7861ab187/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### My Portfolio
+View my Portfolio [here](https://main--lucas-jessops-portfolio.netlify.app/) to see more of what I've created!

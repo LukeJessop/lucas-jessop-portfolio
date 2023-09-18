@@ -46,3 +46,22 @@
     transform: rotate(21.94deg);
     
 }
+.iframe-container{
+    position: absolute;
+    z-index: 50;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #FFCD1D;
+    background-image: url('./assets/halftone.png');
+    background-position: -100px;
+    background-size: 20%;
+    background-blend-mode: overlay;
+}
+.website-demo-iframe{
+    width: 90%;
+    height: 90%;
+}
