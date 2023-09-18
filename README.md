@@ -1,3 +1,6 @@
+# [Hosted Portfolio Site](https://main--lucas-jessops-portfolio.netlify.app/)
+
+
 # Pokemon Fighters
 Go to Pokemon Fighters site at:  [www.pokemonfighters.com](https://www.pokemonfighters.com).
 
@@ -14,7 +17,4 @@ DnD Find Me Is also not currently hosted due to database and server complication
 ## Contact me
 
 ### My Linkedin
-View my Linkedin [here](https://www.linkedin.com/in/lucas-jessop-7861ab187/)
-
-### My Portfolio
-View my Portfolio [here](https://main--lucas-jessops-portfolio.netlify.app/) to see more of what I've created!
+[LInkedin](https://www.linkedin.com/in/lucas-jessop-7861ab187/)
