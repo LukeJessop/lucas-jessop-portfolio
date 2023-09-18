@@ -11,7 +11,9 @@ Monkidex Is not currently hosted due to database and server complications. I am 
 # DnD Find Me
 DnD Find Me Is also not currently hosted due to database and server complications. I am actively working on fixing these.
 
-## My Linkedin
+## Contact me
+
+### My Linkedin
 View my Linkedin [here](https://www.linkedin.com/in/lucas-jessop-7861ab187/)
 
 ### My Portfolio
