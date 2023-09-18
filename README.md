@@ -16,5 +16,4 @@ DnD Find Me Is also not currently hosted due to database and server complication
 
 ## Contact me
 
-### My Linkedin
-[LInkedin](https://www.linkedin.com/in/lucas-jessop-7861ab187/)
+### My [LInkedin](https://www.linkedin.com/in/lucas-jessop-7861ab187/)
